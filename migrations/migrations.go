@@ -1,7 +1,7 @@
 package migrations
 
 import (
-	"duomly.com/go-bank-backend/helpers"
+	"duomly.com/InstagramAPI/helpers"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 )
